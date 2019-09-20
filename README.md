@@ -1,5 +1,4 @@
-*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*
-
+# Work in progress
 ---
 
 # component-template
