@@ -1,6 +1,6 @@
 {
   "name": "SvelteComponent",
-  "svelte": "src/index.svelte",
+  "svelte": "component.svelte",
   "module": "index.mjs",
   "main": "index.js",
   "scripts": {
